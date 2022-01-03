@@ -104,6 +104,19 @@ content p{
   padding: 120px 60px;
 }
 
+.logo{
+  max-width: 5 0px;
+}
+
+.nav li {
+  display: inline;
+  list-style: none;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
